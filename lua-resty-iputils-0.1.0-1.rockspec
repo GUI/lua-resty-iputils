@@ -2,7 +2,7 @@ package = "lua-resty-iputils"
 version = "0.1.0-1"
 
 source = {
-  url = "git://github.com/hamishforbes/lua-resty-iputils.git",
+  url = "git://github.com/GUI/lua-resty-iputils.git",
   tag = "v0.1.0",
 }
 
